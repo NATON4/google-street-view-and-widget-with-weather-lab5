@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 function initialize() {
-    const fenway = { lat: 49.4212928, lng: 32.1003293 };
+    const fenway = { lat: 49.4210662, lng: 32.0990089 };
     const map = new google.maps.Map(document.getElementById("map"), {
         center: fenway,
         zoom: 14,
